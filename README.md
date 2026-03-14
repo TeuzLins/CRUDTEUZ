@@ -211,7 +211,7 @@ Para publicar o projeto em producao, recomenda-se:
 - Mateus de Lima Lins Prestes
 - Desenvolvedor Backend / Full Stack
 - GitHub: https://github.com/TeuzLins
-- LinkedIn: https://www.linkedin.com/in/mateus-de-lima-lins-prestes/
+- LinkedIn: [https://www.linkedin.com/in/mateus-de-lima-lins-prestes/](https://www.linkedin.com/in/mateus-de-lima-lins-prestes-304a812b7/)
 
 <td align="center"><a href="https://github.com/TeuzLins"><img style="border-radius: 50%;" src="https://github.com/TeuzLins.png" width="100px;" alt=""/><br /><sub><b>Teuz Lins </b></sub></a><br /><a href="https://github.com/russo313" title="Rocketseat"> - Backend Developer</a></td>
                               </tr>

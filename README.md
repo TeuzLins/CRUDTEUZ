@@ -207,10 +207,15 @@ Para publicar o projeto em producao, recomenda-se:
 - **JWT** - Autenticacao baseada em token
 - **Tailwind CSS** - Estilizacao da interface
 
-## Autores <a name="authors"></a>
+## Autor <a name="authors"></a>
+- Mateus de Lima Lins Prestes
+- Desenvolvedor Backend / Full Stack
+- GitHub: https://github.com/TeuzLins
+- LinkedIn: https://www.linkedin.com/in/mateus-de-lima-lins-prestes/
 
-- [@TeuzLins_](https://github.com/TeuzLins_) - Desenvolvimento do projeto
-
+<td align="center"><a href="https://github.com/TeuzLins"><img style="border-radius: 50%;" src="https://github.com/TeuzLins.png" width="100px;" alt=""/><br /><sub><b>Teuz Lins </b></sub></a><br /><a href="https://github.com/russo313" title="Rocketseat"> - Backend Developer</a></td>
+                              </tr>
+                                    <tr>
 ## Agradecimentos <a name="acknowledgement"></a>
 
 - Inspiracoes de projetos de autenticacao e CRUD para portfolio

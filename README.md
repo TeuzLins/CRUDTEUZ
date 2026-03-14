@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">crudteuz-monorepo</h3>
+<h3 align="center">CRUDTEUZ</h3>
 
 <div align="center">
 

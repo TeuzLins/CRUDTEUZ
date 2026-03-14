@@ -216,6 +216,7 @@ Para publicar o projeto em producao, recomenda-se:
 <td align="center"><a href="https://github.com/TeuzLins"><img style="border-radius: 50%;" src="https://github.com/TeuzLins.png" width="100px;" alt=""/><br /><sub><b>Teuz Lins </b></sub></a><br /><a href="https://github.com/russo313" title="Rocketseat"> - Backend Developer</a></td>
                               </tr>
                                     <tr>
+                                      
 ## Agradecimentos <a name="acknowledgement"></a>
 
 - Inspiracoes de projetos de autenticacao e CRUD para portfolio

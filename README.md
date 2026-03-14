@@ -9,7 +9,7 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-![License](https://img.shields.io/badge/license-apache-2.0-blue.svg)
+![License](https://img.shields.io/badge/license-apache-blue.svg)
 
 </div>
 

@@ -1,0 +1,42 @@
+.wave-bg {
+  position: relative;
+  background:
+    radial-gradient(circle at top left, rgba(37, 99, 235, 0.18), transparent 34%),
+    radial-gradient(circle at top right, rgba(13, 148, 136, 0.14), transparent 28%),
+    linear-gradient(180deg, #f8fafc 0%, #edf2f7 52%, #e2e8f0 100%);
+  overflow-x: hidden;
+}
+.wave-bg::before {
+  content: "";
+  position: absolute;
+  inset: -10% -10% -10% -10%;
+  background:
+    radial-gradient(circle at 18% 24%, rgba(37, 99, 235, 0.12), transparent 20%),
+    radial-gradient(circle at 82% 12%, rgba(13, 148, 136, 0.1), transparent 18%);
+  filter: blur(48px);
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: none;
+  z-index: 0;
+}
+.wave-left::after {
+  content: "";
+  position: absolute;
+  left: -15%;
+  top: 30%;
+  width: 70%;
+  height: 40%;
+  background: linear-gradient(90deg, rgba(37, 99, 235, 0.14) 0%, rgba(14, 116, 144, 0.12) 55%, rgba(71, 85, 105, 0.08) 100%);
+  filter: blur(36px);
+  opacity: 0.9;
+  border-radius: 9999px;
+  pointer-events: none;
+  z-index: 0;
+}
+.wave-animate::before {
+  animation: float 12s ease-in-out infinite alternate;
+}
+@keyframes float {
+  0% { transform: translateY(-8px) scale(1); }
+  100% { transform: translateY(8px) scale(1.02); }
+}

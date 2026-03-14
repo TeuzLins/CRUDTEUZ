@@ -1,0 +1,20 @@
+
+> example-backend@1.0.0 dev
+> ts-node-dev --respawn --transpile-only src/index.ts
+
+[INFO] 22:02:27 ts-node-dev ver. 2.0.0 (using ts-node ver. 10.9.2, typescript ver. 5.9.3)
+[0mGET /api/auth/me [33m401[0m 2.189 ms - 26[0m
+[0mGET /api/auth/me [33m401[0m 2.788 ms - 27[0m
+[0mGET /api/auth/me [33m401[0m 0.538 ms - 27[0m
+[0mPOST /api/auth/refresh [32m200[0m 50.953 ms - 384[0m
+[0mGET /api/auth/me [32m200[0m 1.612 ms - 69[0m
+[0mGET /api/auth/me [36m304[0m 1.281 ms - -[0m
+[0mPOST /api/auth/register [32m201[0m 107.185 ms - 447[0m
+[0mGET /api/auth/me [32m200[0m 1.861 ms - 63[0m
+[0mGET /api/auth/me [36m304[0m 1.413 ms - -[0m
+[0mPOST /api/auth/login [32m200[0m 81.108 ms - 447[0m
+[0mGET /api/auth/me [36m304[0m 1.332 ms - -[0m
+[0mGET /api/auth/me [36m304[0m 1.261 ms - -[0m
+[0mGET /api [33m404[0m 1.482 ms - 142[0m
+[0mGET /api/auth/me [36m304[0m 1.710 ms - -[0m
+[0mGET /api/auth/me [36m304[0m 1.114 ms - -[0m

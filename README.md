@@ -33,7 +33,7 @@
 
 ## Sobre <a name="about"></a>
 
-O **crudteuz-monorepo** e uma aplicacao full-stack desenvolvida com foco em autenticacao segura, gerenciamento de registros e organizacao de projeto em arquitetura de monorepo. O sistema permite cadastro e login de usuarios, controle de sessao, protecao de rotas e operacoes completas de **Create, Read, Update e Delete**.
+O **CRUDTEUZ** e uma aplicacao full-stack desenvolvida com foco em autenticacao segura, gerenciamento de registros e organizacao de projeto em arquitetura de monorepo. O sistema permite cadastro e login de usuarios, controle de sessao, protecao de rotas e operacoes completas de **Create, Read, Update e Delete**.
 
 O projeto foi construido com o objetivo de praticar conceitos essenciais de desenvolvimento web moderno, incluindo integracao entre frontend e backend, validacao de dados, persistencia em banco, autenticacao baseada em token e organizacao de codigo para facilitar manutencao e escalabilidade. Tambem serve como projeto de portfolio para demonstrar habilidades em desenvolvimento back-end e full-stack.
 
@@ -62,8 +62,8 @@ git --version
 Clone o repositorio:
 
 ```bash
-git clone https://github.com/TeuzLins_/crudteuz-monorepo.git
-cd crudteuz-monorepo
+git clone https://github.com/TeuzLins_/CRUDTEUZ.git
+cd CRUDTEUZ
 ```
 
 Instale as dependencias do projeto:
